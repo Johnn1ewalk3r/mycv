@@ -44,27 +44,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+   My name is John Asllanis and i am 22 years old.
+   I am from kalamata and i live in corfu 3 years now. I came here for education reason because 
+   of the ionian university, engineer programming. I like this university and i have learn a lot
+   here.
 
-      Second paragraph if required.
-
+  
 education:
     - degree: Computer Engineering
       university: University of Ionian
       time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I choose this university because its very good and its fit to me.
+        I like to learn new thing up to technology and i have learn a lot 
+        of things here. Im still in this university i have one more year
+        to take my degree.
 
     - degree: BSc in English lessons
       university: Private school Kalamata
